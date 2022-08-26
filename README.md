@@ -43,6 +43,7 @@ Users should be able to:
  
  - Setting up the workflow
  - Creating HTML skeleton based on design assets `./assets/design/*`
+ - Setting up CSS (Prepare reset css, Add Google fonts, Identify CSS custom properties)
 
 ### Built with
 
@@ -58,6 +59,8 @@ Users should be able to:
 
 
 ### Useful resources
+
+ -[Preflight](https://unpkg.com/tailwindcss@3.1.8/src/css/preflight.css) - For reseting HTML elements
 
 
 ## Author
