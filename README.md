@@ -58,13 +58,18 @@ Users should be able to:
 
 `align-items:flex-start;` in `.item` class made all children's width like `button` as it must be (in size of its content)
 
+
+
 ### Continued development
 
 
 ### Useful resources
 
  -[Preflight](https://unpkg.com/tailwindcss@3.1.8/src/css/preflight.css) - For reseting HTML elements
+
  -[Custom CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+
+ -[CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 ## Author
 
