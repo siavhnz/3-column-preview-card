@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
-- Live Site: [github.io](https://your-live-site-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/3column-preview-card-component-O_DsY6gb2J)
+- Live Site: [github.io](https://siavhnz.github.io/frontendmentor/8.3-column-preview-card/index.html)
 
 ## My process
 
@@ -45,13 +45,15 @@ Users should be able to:
  - Creating HTML skeleton based on design assets `./assets/design/*`
  - Setting up CSS preflight (Prepare reset css, Add Google fonts, Identify CSS custom properties)
  - Working on mobile design
+ - Working on Desktop design
+ - Write README.md
+ - publish on github.io | github.com | frontendmentor.io
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
@@ -61,6 +63,8 @@ Users should be able to:
 
 
 ### Continued development
+
+I will Read and Practice more about Flexbox in the upcoming challenge solution
 
 
 ### Useful resources
@@ -77,4 +81,8 @@ Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz)
 
 
 ## Acknowledgments
+
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
 
