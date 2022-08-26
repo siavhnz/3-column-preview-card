@@ -43,7 +43,8 @@ Users should be able to:
  
  - Setting up the workflow
  - Creating HTML skeleton based on design assets `./assets/design/*`
- - Setting up CSS (Prepare reset css, Add Google fonts, Identify CSS custom properties)
+ - Setting up CSS preflight (Prepare reset css, Add Google fonts, Identify CSS custom properties)
+ - Working on mobile design
 
 ### Built with
 
@@ -55,13 +56,15 @@ Users should be able to:
 
 ### What I learned
 
+`align-items:flex-start;` in `.item` class made all children's width like `button` as it must be (in size of its content)
+
 ### Continued development
 
 
 ### Useful resources
 
  -[Preflight](https://unpkg.com/tailwindcss@3.1.8/src/css/preflight.css) - For reseting HTML elements
-
+ -[Custom CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
 ## Author
 
