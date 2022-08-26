@@ -41,7 +41,8 @@ Users should be able to:
 
 ### Workflow
  
- -
+ - Setting up the workflow
+ - Creating HTML skeleton based on design assets `./assets/design/*`
 
 ### Built with
 
