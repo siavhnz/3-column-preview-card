@@ -69,11 +69,11 @@ I will Read and Practice more about Flexbox in the upcoming challenge solution
 
 ### Useful resources
 
- -[Preflight](https://unpkg.com/tailwindcss@3.1.8/src/css/preflight.css) - For reseting HTML elements
+ - [Preflight](https://unpkg.com/tailwindcss@3.1.8/src/css/preflight.css) - For reseting HTML elements
 
- -[Custom CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+ - [Custom CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
- -[CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+ - [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 ## Author
 
